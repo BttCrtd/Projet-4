@@ -6587,6 +6587,9 @@ textarea.form-control-lg {
   clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important;
   border: 0 !important;
+  opacity: 1;
+  color: rgb(79, 79, 79);
+  background-color: rgb(255, 255, 255);
 }
 
 .stretched-link::after {
